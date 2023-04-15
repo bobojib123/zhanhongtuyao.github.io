@@ -3,7 +3,7 @@ layout: page
 Title: "Blog"
 ---
 
-I am a Master of Engineering student in the School of Operation Research and Information Engineering at Cornell. 
+I am a Master of Engineering student in the [School of Operation Research and Information Engineering](https://www.orie.cornell.edu/orie) at Cornell. My concentration is Financial Engineering and I am a member of CFEM ([Cornell Financial Engineering Manhattan](https://www.orie.cornell.edu/orie/cfem)).
 
 I am interested in quantitative finance and data science.
 
