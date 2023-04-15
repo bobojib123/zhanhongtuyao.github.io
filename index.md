@@ -7,6 +7,6 @@ I am a Master of Engineering student in the [School of Operation Research and In
 
 I am interested in quantitative finance and data science.
 
-You can check out my [resume]({{zhanhongtuyao.github.i}}/Yao.Zhanhongtu.Resume.pdf) if you're interested.
+You can check out my [resume]({{zhanhongtuyao.github.io}}/Yao.Zhanhongtu.Resume.pdf) if you're interested.
 
 Welcome again!
