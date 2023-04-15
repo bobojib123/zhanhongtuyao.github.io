@@ -3,7 +3,9 @@ layout: page
 Title: "Blog"
 ---
 
-![my photo](/me.jpeg){:height="100px" width="100px"}
+{:refdef: style="text-align: center;"}
+![my photo](/me.jpeg){:height="400px" width="400px"}
+{: refdef}
 
 
 I am a Master of Engineering student in the [School of Operation Research and Information Engineering](https://www.orie.cornell.edu/orie) at Cornell. My concentration is Financial Engineering and I am a member of CFEM ([Cornell Financial Engineering Manhattan](https://www.orie.cornell.edu/orie/cfem)).
