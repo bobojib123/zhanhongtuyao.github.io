@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     
     <title>Resume</title>
-    <link rel="stylesheet" type="text/css" href="https://zhanhongtuyao.github.io/style.css">
+    <link rel="stylesheet" type="text/css" href="{{https://zhanhongtuyao.github.io}}/style.css">
 </head>
 <body>
   <div class="container">
