@@ -15,10 +15,18 @@ minimal: false             # use a dark header
 
 # Menu
 
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "resume.html", title: "About me"}
-  - {title: "My Github", url: "https://github.com/zhanhongtuyao"}
-  - {title: "Blog", file: "blog.md"}
+# navigation:                # accepts {file, title, url, icon, sidebaricon}
+#   - {file: "resume.html", title: "About me"}
+#   - {title: "My Github", url: "https://github.com/zhanhongtuyao"}
+#   - {title: "Blog", file: "blog.md"}
+
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
+ 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "zy323@cornell.edu"}
