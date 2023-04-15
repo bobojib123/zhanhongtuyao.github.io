@@ -1,13 +1,16 @@
 <!DOCTYPE html>
-<html lang="en">
 <head>
+    <link rel="stylesheet" type="text/css" href="{{https://zhanhongtuyao.github.io}}/style.css">
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     
     <title>Resume</title>
-    <link rel="stylesheet" type="text/css" href="{{https://zhanhongtuyao.github.io}}/style.css">
 </head>
+
+<html lang="en">
+
 <body>
   <div class="container">
     <div class="avatar">
