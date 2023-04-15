@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "https://zhanhongtuyao.github.io/Yao.Zhanhongtu.Resume.pdf", title: "Resume"}
+  - {file: "{{zhanhongtuyao.github.io}}/Yao.Zhanhongtu.Resume.pdf", title: "Resume"}
   - {title: "My Github", url: "https://github.com/zhanhongtuyao"}
   - {title: "Blog", file: "blog.md"}
 
